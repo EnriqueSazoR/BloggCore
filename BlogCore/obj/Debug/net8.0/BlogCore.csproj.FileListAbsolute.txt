@@ -266,3 +266,4 @@ C:\Users\Luis Sazo\Desktop\CursoNet\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.
 C:\Users\Luis Sazo\Desktop\CursoNet\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
 C:\Users\Luis Sazo\Desktop\CursoNet\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\Luis Sazo\Desktop\CursoNet\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\Luis Sazo\Desktop\CursoNet\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json

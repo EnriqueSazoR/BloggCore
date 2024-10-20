@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QmWewBhZ0Nf/9O+SI0YIrhuptdrl69K3RceFnWWL83w=",
+  "Hash": "AiUSYefAme0AgTN662YUGpfJMCax7sP6smfHsFHvHAI=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
