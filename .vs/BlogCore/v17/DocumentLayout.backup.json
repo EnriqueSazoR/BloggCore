@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7728CE1-2A0D-4BFD-A483-84C8C40051B0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7728CE1-2A0D-4BFD-A483-84C8C40051B0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFD0B065-443D-46EA-97BB-54BAED3A3400}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_VistaCrearVolver.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "RelativeToolTip": "BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEkAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T23:30:04.503Z",
+              "WhenOpened": "2024-10-21T18:16:55.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T23:17:30.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvyUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T23:16:00.43Z",
+              "WhenOpened": "2024-10-21T18:03:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:58:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:39:05.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "categoria.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\categoria.js",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+              "RelativeToolTip": "BlogCore\\wwwroot\\js\\categoria.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T17:35:46.269Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +109,9 @@
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T23:14:44.836Z",
+              "WhenOpened": "2024-10-21T17:29:46.763Z",
               "EditorCaption": ""
             }
           ]

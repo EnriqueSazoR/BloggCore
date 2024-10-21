@@ -33,7 +33,7 @@ namespace BlogCore.AccesoDatos.Data.Repository
         public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null, string? includeProperties = null)
         {
             // Se crea una consulta IQueryable a partir del DbSet del contexto
-            IQueryable<T> query = null;
+            IQueryable<T> query = dbSet;
 
             if(filter != null)
             {
@@ -64,7 +64,7 @@ namespace BlogCore.AccesoDatos.Data.Repository
         public T GetFirstOrDefault(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
         {
             // Se crea una consulta IQueryable a partir del DbSet del contexto
-            IQueryable<T> query = null;
+            IQueryable<T> query = dbSet;
 
             if (filter != null)
             {
